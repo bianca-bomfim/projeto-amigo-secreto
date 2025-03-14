@@ -31,7 +31,7 @@ function sortearAmigo() {
         console.log(sorteado);
 
         let resultado = document.getElementById('resultado');
-        resultado.innerHTML = `<li>${sorteado}</li>`;
+        resultado.innerHTML = `<li>O amigo sorteado é ${sorteado}</li>`;
         
         let lista = document.getElementById('listaAmigos');
         lista.innerHTML = "";
