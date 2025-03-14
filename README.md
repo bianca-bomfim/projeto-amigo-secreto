@@ -14,9 +14,9 @@ Este projeto foi desenvolvido para sortear amigos de forma aleatória, sendo per
 
 ## 🌐 Acesso ao Projeto
 
-[Clique aqui para acessar o projeto no Vercel](https://amigo-secreto-seven-omega.vercel.app/) 
+[Clique aqui para acessar o projeto no Vercel](https://projeto-amigo-secreto-chi.vercel.app/) 
 
-[Clique aqui para acessar o projeto github.io](https://bianca-bomfim.github.io/amigo-secreto/)
+[Clique aqui para acessar o projeto github.io](https://bianca-bomfim.github.io/projeto-amigo-secreto/)
 
 
 ## 💡 Como Rodar o Projeto
