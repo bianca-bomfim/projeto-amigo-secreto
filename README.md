@@ -30,7 +30,7 @@ Este projeto foi desenvolvido para sortear amigos de forma aleatória, sendo per
 
 1. Clone o repositório no terminal:
    ```bash
-   git clone https://github.com/bianca-bomfim/amigo-secreto
+   git clone https://github.com/bianca-bomfim/projeto-amigo-secreto
    ``` 
 
 2. Abra o arquivo index.html no Visual Studio Code e use a extensão "Live Server" para rodar o projeto em um navegador.
