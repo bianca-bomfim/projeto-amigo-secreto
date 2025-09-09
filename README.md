@@ -2,6 +2,21 @@
 
 Este projeto foi desenvolvido para sortear amigos de forma aleatória, sendo perfeito para a organização de brincadeiras de amigo secreto!
 
+![GitHub repo size](https://img.shields.io/github/repo-size/bianca-bomfim/amigo-secreto)
+![GitHub stars](https://img.shields.io/github/stars/bianca-bomfim/amigo-secreto?style=social)
+
+---
+
+## 📌 Índice
+- [Funcionalidades](#-funcionalidades)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Acesso ao Projeto](#-acesso-ao-projeto)
+- [Como Rodar o Projeto](#-como-rodar-o-projeto)
+- [Como Usar](#-como-usar)
+- [Participe da Brincadeira!](#-participe-da-brincadeira)
+
+---
+
 ## 📝 Funcionalidades
 
 - Adicionar uma lista de amigos ao programa.
@@ -14,9 +29,9 @@ Este projeto foi desenvolvido para sortear amigos de forma aleatória, sendo per
 
 ## 🌐 Acesso ao Projeto
 
-[Clique aqui para acessar o projeto no Vercel](https://projeto-amigo-secreto-chi.vercel.app/) 
+[Clique aqui para acessar o projeto no Vercel](https://amigo-secreto-seven-omega.vercel.app/) 
 
-[Clique aqui para acessar o projeto github.io](https://bianca-bomfim.github.io/projeto-amigo-secreto/)
+[Clique aqui para acessar o projeto github.io](https://bianca-bomfim.github.io/amigo-secreto/)
 
 
 ## 💡 Como Rodar o Projeto
@@ -30,7 +45,7 @@ Este projeto foi desenvolvido para sortear amigos de forma aleatória, sendo per
 
 1. Clone o repositório no terminal:
    ```bash
-   git clone https://github.com/bianca-bomfim/projeto-amigo-secreto
+   git clone https://github.com/bianca-bomfim/amigo-secreto
    ``` 
 
 2. Abra o arquivo index.html no Visual Studio Code e use a extensão "Live Server" para rodar o projeto em um navegador.
@@ -58,4 +73,4 @@ Este projeto foi desenvolvido para sortear amigos de forma aleatória, sendo per
 
 Agora que você já aprendeu as funcionalidades e como utilizar o projeto, entre na brincadeira também e organize o seu amigo secreto de forma fácil e divertida! 🎁
 
-[Clique aqui para acessar o projeto e começar!](https://projeto-amigo-secreto-chi.vercel.app/)
+[Clique aqui para acessar o projeto e começar!](https://amigo-secreto-seven-omega.vercel.app/)
