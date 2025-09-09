@@ -2,9 +2,6 @@
 
 Este projeto foi desenvolvido para sortear amigos de forma aleatória, sendo perfeito para a organização de brincadeiras de amigo secreto!
 
-![GitHub repo size](https://img.shields.io/github/repo-size/bianca-bomfim/amigo-secreto)
-![GitHub stars](https://img.shields.io/github/stars/bianca-bomfim/amigo-secreto?style=social)
-
 ---
 
 ## 📌 Índice
